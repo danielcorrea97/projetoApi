@@ -1,0 +1,34 @@
+.menu{
+
+    padding-bottom: 20px;
+    
+    ul {
+        margin: 0px;
+        background-color: rgb(35, 36, 36);
+        list-style: none;
+        text-align: center;
+
+        li {
+            display: inline;
+
+            a {
+                padding: 20px 40px;
+                display: inline-block;
+                color: white;
+                text-decoration: none;
+                font-family: Roboto;
+                font-size: 20px;
+            }
+
+            a:hover {
+                color: darkgrey;
+            }
+        }
+
+        h1 {
+            color: white;
+            margin: 0px;
+            padding-top: 10px;
+        }
+     }
+} 
